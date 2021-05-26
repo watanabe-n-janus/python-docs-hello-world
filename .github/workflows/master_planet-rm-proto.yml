@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'planet-rm-proto'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e642e08225d0424290e6027cdf087689 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_1115b629408f4843b1e6602a5e8181a6 }}
